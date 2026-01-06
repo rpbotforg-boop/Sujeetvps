@@ -38,8 +38,8 @@ async def start(_,message):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("ᴄʜᴀɴɴᴇʟ", url="https://t.me/BaddyXbot"),
-                    InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ", url="https://t.me/Baddyxbot")
+                    InlineKeyboardButton("ᴄʜᴀɴɴᴇʟ", url="https://t.me/apnidosti12"),
+                    InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ", url="https://t.me/apnidosti12")
                 ]
             ]
         )
